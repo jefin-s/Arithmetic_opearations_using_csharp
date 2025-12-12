@@ -10,11 +10,11 @@ namespace Arithmetic
             int b = 20;
 
 
-            Console.WriteLine($"Sum: {a + b}");
-            Console.WriteLine($"Difference: {b - a}");
-            Console.WriteLine($"Product: {a * b}");
-            Console.WriteLine($"division: {a / b}");
-            Console.WriteLine($"modulus:{a % b}");
+            Console.WriteLine($" The Sum of a nd b: {a + b}");
+            Console.WriteLine($" The Difference of a  and b: {b - a}");
+            Console.WriteLine($" Thhe Product of a and b : {a * b}");
+            Console.WriteLine($" The division of a and b: {a / b}");
+            Console.WriteLine($" The modulus of  a and b:{a % b}");
 
 
 
