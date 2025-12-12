@@ -8,7 +8,7 @@ namespace Arithmetic
         {
             int a = 10;
             int b = 20;
-            Console.WriteLine("Arithmetic Operations:");
+            Console.WriteLine("/////----Arithmetic Operations:-");
 
             Console.WriteLine($" The Sum of a nd b: {a + b}");
             Console.WriteLine($" The Difference of a  and b: {b - a}");
